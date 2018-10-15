@@ -1,0 +1,2 @@
+启动main函数，然后根据终端的信息，进行依次的输入就行
+其中Teacher、Student、Manager等不同的类都继承People，并实现不同的功能
